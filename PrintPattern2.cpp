@@ -25,4 +25,5 @@ int main ()
     int n;
     cin>>n;
     printpattern2(n);
+    return 0;
 }
